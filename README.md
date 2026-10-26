@@ -2,6 +2,14 @@
 
 **Seminario 2 · Huellas de una profesión en Murcia**
 
+## Nuevo: póster de una sola página
+
+- [Ver el póster A3 vertical](./poster-seminario-2-a3.svg)
+- [Descargar el póster en ZIP](./poster-seminario-2-a3.zip)
+- [Abrir la presentación del póster](./poster.html)
+
+El póster mide **2480 × 3508 px (A3 vertical)** y reúne los seis perfiles, la línea temporal, la conclusión y las fuentes en una sola composición.
+
 Carrusel informativo vertical de **8 diapositivas (1080 × 1350 px)** sobre la evolución de la gestión de la información, desde el saber humanista hasta el dato digital.
 
 ## Descargar
